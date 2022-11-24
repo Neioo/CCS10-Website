@@ -3,4 +3,5 @@ Repository for Group 3's CCS10-Website
 
 bootstrap limit testing
 
-*para lang may mapakita kay sir if he decides to be a total champ and surprise us
+CBT
+
